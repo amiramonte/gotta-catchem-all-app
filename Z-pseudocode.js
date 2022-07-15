@@ -1,9 +1,8 @@
-// Bring Material UI into react project
-    // Read Material UI documentation for React & Import
-    // Add Roboto Fonts
+// Material UI Header
+    // import component for header
+    // hamburger or buttons for light mode, dark mode, and Odesza Mode
     // 
-    // 
-    // 
+// 
     // 
     // 
     // 
