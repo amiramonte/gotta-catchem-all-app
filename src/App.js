@@ -1,6 +1,7 @@
 import React from "react";
 import { CssBaseline } from "@mui/material";
 import ButtonAppBar from "./components/navbar";
+import Counter from './components/counter';
 
 
 function App() {
@@ -9,6 +10,7 @@ function App() {
       <CssBaseline/>
       <ButtonAppBar />
       <h1>Welcome React Test</h1>
+      <Counter/>
     </div>
   );
 }
