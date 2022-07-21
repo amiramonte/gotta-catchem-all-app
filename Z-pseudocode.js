@@ -1,12 +1,11 @@
 // Material UI Header
-    // import component for header
     // hamburger or buttons for light mode, dark mode, and Odesza Mode
     // 
-// 
-    // 
-    // 
-    // 
-    // 
+// App Layout Build
+    // box for counting throws
+    // button for +
+    // button for -
+    // button for reset
     // 
     // 
 // 
