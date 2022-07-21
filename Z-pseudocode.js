@@ -3,9 +3,6 @@
     // 
 // App Layout Build
     // box for counting throws
-    // button for +
-    // button for -
-    // button for reset
     // 
     // 
 // 

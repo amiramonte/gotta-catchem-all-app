@@ -9,7 +9,6 @@ function App() {
     <div>
       <CssBaseline/>
       <ButtonAppBar />
-      <h1>Welcome React Test</h1>
       <Counter/>
     </div>
   );
