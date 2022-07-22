@@ -3,6 +3,7 @@ import Box from '@mui/material/Box';
 import Stack from '@mui/material/Stack';
 import Buttons from './buttons';
 import { Container } from '@mui/system';
+import { Grid } from '@mui/material';
 
 export default function Counter() {
 
@@ -24,14 +25,16 @@ export default function Counter() {
 
     return (
     <div>
-        <Container maxWidth="sm"> 
-            <Box sx={{ width: '100%' }}>
-                <Stack spacing={6}>
-                    <h1>{count}</h1>
+        <Grid container direction="column" justifyContent="center" alignItems="center">
+            <Container maxWidth="sm">
+                <Stack spacing={4}>
+                    <Box sx={{mx:'auto', fontWeight: "700", fontSize:'6rem', p: 2}}>
+                    {count}
+                    </Box>
                     <Buttons countIncrease={countIncrease} countDecrease={countDecrease} countReset={countReset}/>
                 </Stack>
-            </Box>
-        </Container>
+            </Container>
+        </Grid>
     </div>
     )
 }
