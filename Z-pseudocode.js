@@ -11,9 +11,9 @@
     // email link to self
     // try tomorrow when running Odesza
 // 
-// 
-// 
-// 
+// Light Mode 
+// Dark Mode
+// Odesza Mode
 //   
 // 
 // 
