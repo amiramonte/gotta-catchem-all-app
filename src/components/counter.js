@@ -27,8 +27,8 @@ export default function Counter() {
         <Container maxWidth="sm"> 
             <Box sx={{ width: '100%' }}>
                 <Stack spacing={6}>
-                    <p>{count}</p>
-                    <Buttons countIncrease = {countIncrease} countDecrease = {countDecrease} countReset = {countReset}/>
+                    <h1>{count}</h1>
+                    <Buttons countIncrease={countIncrease} countDecrease={countDecrease} countReset={countReset}/>
                 </Stack>
             </Box>
         </Container>

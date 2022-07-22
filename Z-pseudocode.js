@@ -1,7 +1,4 @@
 // App Layout Build
-    // Change button width
-    // stack spacing on counter.js for counting box
-    // stack spacing on buttons.js for spacing between buttons
     // increase font size of counter
     // center counter
 // 
