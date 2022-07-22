@@ -1,6 +1,10 @@
-// App Layout Build
-    // increase font size of counter
-    // center counter
+// App Styling
+    // figure out color scheme
+    // change header color and font color
+    // change button color
+    // Change background color
+    // 
+    // 
 // 
 // publish counter to heroku
 // email link to self
