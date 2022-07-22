@@ -2,6 +2,7 @@ import React, {useState} from 'react';
 import Box from '@mui/material/Box';
 import Stack from '@mui/material/Stack';
 import Buttons from './buttons';
+import { Container } from '@mui/system';
 
 export default function Counter() {
 
@@ -23,12 +24,14 @@ export default function Counter() {
 
     return (
     <div>
-        <Box sx={{ width: '100%' }}>
-            <Stack spacing={2}>
-                <p>{count}</p>
-                <Buttons countIncrease = {countIncrease} countDecrease = {countDecrease} countReset = {countReset}/>
-            </Stack>
-        </Box>
+        <Container maxWidth="sm"> 
+            <Box sx={{ width: '100%' }}>
+                <Stack spacing={6}>
+                    <p>{count}</p>
+                    <Buttons countIncrease = {countIncrease} countDecrease = {countDecrease} countReset = {countReset}/>
+                </Stack>
+            </Box>
+        </Container>
     </div>
     )
 }
