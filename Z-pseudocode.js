@@ -1,7 +1,8 @@
 // App Styling
-    // figure out color scheme
+    // color scheme will be Odesza's color scheme - blue (eyes), brown & white (fur)
     // change header color and font color
     // change button color
+    // Change button size - make longer
     // Change background color
     // 
     // 
