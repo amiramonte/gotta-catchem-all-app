@@ -7,7 +7,7 @@
     // 
     // 
 // 
-// publish counter to heroku
+// publish counter to Render
 // email link to self
 // try tomorrow when running Odesza
 // 
