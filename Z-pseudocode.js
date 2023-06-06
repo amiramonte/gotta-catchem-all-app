@@ -17,3 +17,8 @@
 // Light Mode 
 // Dark Mode
 // Odesza Mode
+
+// Nav Bar to a different color
+// buttons to Odesza Blue Eyes
+// put pic of Odesza as background?
+//
